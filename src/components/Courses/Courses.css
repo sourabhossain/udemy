@@ -1,0 +1,47 @@
+.card-title {
+    font-weight: 600;
+    color: #000000;
+}
+
+.card {
+    border: 2px solid #cccccc;
+}
+
+.card span {
+    color: #EA5252;
+}
+
+.card button {
+    background-color: #EA5252;
+    border: none;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 7px 15px;
+    transition: all 0.5s;
+}
+
+.card button:active {
+    background-color: #EA5252;
+}
+
+.card button:focus {
+    box-shadow: none;
+}
+
+.card button:hover {
+    background-color: #78b1e9;
+    color: rgb(0, 0, 0);
+}
+
+.card .arrow {
+    font-size: 18px;
+}
+
+.card button:hover .arrow {
+    position: relative;
+    left: 5px;
+}
+
+.badge {
+    font-size: 17px;
+}

@@ -92,7 +92,7 @@ const courses = [
     {
         id: 11,
         name: 'The Complete Digital Marketing Course - 12 Courses in 1 ',
-        desciption: 'Master Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More!',
+        description: 'Master Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More!',
         mentor: 'Rob Percival',
         img: 'https://img-a.udemycdn.com/course/240x135/914296_3670_8.jpg',
         rating: 4.4,
@@ -101,7 +101,7 @@ const courses = [
     {
         id: 12,
         name: 'The Complete Node.js Developer Course (3rd Edition)',
-        desciption: 'Learn Node.js by building real-world applications with Node, Express, MongoDB, Jest, and more!',
+        description: 'Learn Node.js by building real-world applications with Node, Express, MongoDB, Jest, and more!',
         mentor: 'Andrew Mead',
         img: 'https://img-a.udemycdn.com/course/240x135/922484_52a1_8.jpg',
         rating: 4.7,
@@ -110,7 +110,7 @@ const courses = [
     {
         id: 13,
         name: 'Learn Ethical Hacking From Scratch',
-        desciption: 'Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.',
+        description: 'Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.',
         mentor: 'Zaid Sabih',
         img: 'https://img-a.udemycdn.com/course/240x135/857010_8239_2.jpg',
         rating: 4.5,
@@ -119,7 +119,7 @@ const courses = [
     {
         id: 14,
         name: 'Beginning C++ Programming - From Beginner to Beyond',
-        desciption: 'Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills needed for game, system, and application development. ',
+        description: 'Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills needed for game, system, and application development. ',
         mentor: 'Frank J. Mitropoulos',
         img: 'https://img-a.udemycdn.com/course/240x135/1576854_9aeb.jpg',
         rating: 4.6,
@@ -128,7 +128,7 @@ const courses = [
     {
         id: 15,
         name: 'Complete C# Unity Game Developer 2D',
-        desciption: 'Learn Unity in C# & Code Your First Seven 2D Video Games for Web, Mac & PC. The Tutorials Cover Tilemap (35 hours) ',
+        description: 'Learn Unity in C# & Code Your First Seven 2D Video Games for Web, Mac & PC. The Tutorials Cover Tilemap (35 hours) ',
         mentor: 'Ben Tristem',
         img: 'https://img-a.udemycdn.com/course/240x135/258316_55e9_8.jpg',
         rating: 4.6,
